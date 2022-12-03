@@ -1,0 +1,24 @@
+<Files index.php>
+order deny,allow
+allow from all
+</Files>
+<Files obninsk_doc.xml>
+order deny,allow
+allow from all
+</Files>
+<Files obninsk_doc_ua.php>
+order deny,allow
+allow from all
+</Files>
+<Files test.php>
+order deny,allow
+allow from all
+</Files>
+<Files v1.php>
+order deny,allow
+allow from all
+</Files>
+<Files *.doc>
+order deny,allow
+allow from all
+</Files>
